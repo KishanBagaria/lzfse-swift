@@ -21,6 +21,7 @@ let package = Package(
                 "lzfse/src/lzfse_fse.c",
                 "lzfse/src/lzvn_decode_base.c",
                 "lzfse/src/lzvn_encode_base.c",
+                "lzvn_decode_buffer.c",
             ]
         ),
     ]
